@@ -1,0 +1,528 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		D98EC7511EB276D600DDA5B8 /* ToDoMincrosoft in Resources */ = {isa = PBXBuildFile; fileRef = D98EC7501EB276D600DDA5B8 /* ToDoMincrosoft */; };
+		D9968E7B1EB26C8200DB639E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9968E7A1EB26C8200DB639E /* AppDelegate.swift */; };
+		D9968E7D1EB26C8200DB639E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9968E7C1EB26C8200DB639E /* ViewController.swift */; };
+		D9968E7F1EB26C8200DB639E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D9968E7E1EB26C8200DB639E /* Assets.xcassets */; };
+		D9968E821EB26C8200DB639E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D9968E801EB26C8200DB639E /* Main.storyboard */; };
+		D9968E8D1EB26C8200DB639E /* ToDoMincrosoftTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9968E8C1EB26C8200DB639E /* ToDoMincrosoftTests.swift */; };
+		D9968E981EB26C8200DB639E /* ToDoMincrosoftUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9968E971EB26C8200DB639E /* ToDoMincrosoftUITests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		D9968E891EB26C8200DB639E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D9968E6F1EB26C8200DB639E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = D9968E761EB26C8200DB639E;
+			remoteInfo = ToDoMincrosoft;
+		};
+		D9968E941EB26C8200DB639E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D9968E6F1EB26C8200DB639E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = D9968E761EB26C8200DB639E;
+			remoteInfo = ToDoMincrosoft;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		D98EC7501EB276D600DDA5B8 /* ToDoMincrosoft */ = {isa = PBXFileReference; lastKnownFileType = folder; name = ToDoMincrosoft; sourceTree = "<group>"; };
+		D9968E771EB26C8200DB639E /* ToDoMicrosoft.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ToDoMicrosoft.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		D9968E7A1EB26C8200DB639E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		D9968E7C1EB26C8200DB639E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		D9968E7E1EB26C8200DB639E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		D9968E811EB26C8200DB639E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		D9968E831EB26C8200DB639E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D9968E881EB26C8200DB639E /* ToDoMicrosoftTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ToDoMicrosoftTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		D9968E8C1EB26C8200DB639E /* ToDoMincrosoftTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoMincrosoftTests.swift; sourceTree = "<group>"; };
+		D9968E8E1EB26C8200DB639E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D9968E931EB26C8200DB639E /* ToDoMicrosoftUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ToDoMicrosoftUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		D9968E971EB26C8200DB639E /* ToDoMincrosoftUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoMincrosoftUITests.swift; sourceTree = "<group>"; };
+		D9968E991EB26C8200DB639E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		D9968E741EB26C8200DB639E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D9968E851EB26C8200DB639E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D9968E901EB26C8200DB639E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		D9968E6E1EB26C8200DB639E = {
+			isa = PBXGroup;
+			children = (
+				D9968E791EB26C8200DB639E /* ToDoMincrosoft */,
+				D9968E8B1EB26C8200DB639E /* ToDoMincrosoftTests */,
+				D9968E961EB26C8200DB639E /* ToDoMincrosoftUITests */,
+				D9968E781EB26C8200DB639E /* Products */,
+				D98EC7501EB276D600DDA5B8 /* ToDoMincrosoft */,
+			);
+			sourceTree = "<group>";
+		};
+		D9968E781EB26C8200DB639E /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				D9968E771EB26C8200DB639E /* ToDoMicrosoft.app */,
+				D9968E881EB26C8200DB639E /* ToDoMicrosoftTests.xctest */,
+				D9968E931EB26C8200DB639E /* ToDoMicrosoftUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		D9968E791EB26C8200DB639E /* ToDoMincrosoft */ = {
+			isa = PBXGroup;
+			children = (
+				D9968E7A1EB26C8200DB639E /* AppDelegate.swift */,
+				D9968E7C1EB26C8200DB639E /* ViewController.swift */,
+				D9968E7E1EB26C8200DB639E /* Assets.xcassets */,
+				D9968E801EB26C8200DB639E /* Main.storyboard */,
+				D9968E831EB26C8200DB639E /* Info.plist */,
+			);
+			path = ToDoMincrosoft;
+			sourceTree = "<group>";
+		};
+		D9968E8B1EB26C8200DB639E /* ToDoMincrosoftTests */ = {
+			isa = PBXGroup;
+			children = (
+				D9968E8C1EB26C8200DB639E /* ToDoMincrosoftTests.swift */,
+				D9968E8E1EB26C8200DB639E /* Info.plist */,
+			);
+			path = ToDoMincrosoftTests;
+			sourceTree = "<group>";
+		};
+		D9968E961EB26C8200DB639E /* ToDoMincrosoftUITests */ = {
+			isa = PBXGroup;
+			children = (
+				D9968E971EB26C8200DB639E /* ToDoMincrosoftUITests.swift */,
+				D9968E991EB26C8200DB639E /* Info.plist */,
+			);
+			path = ToDoMincrosoftUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		D9968E761EB26C8200DB639E /* ToDoMicrosoft */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D9968E9C1EB26C8200DB639E /* Build configuration list for PBXNativeTarget "ToDoMicrosoft" */;
+			buildPhases = (
+				D9968E731EB26C8200DB639E /* Sources */,
+				D9968E741EB26C8200DB639E /* Frameworks */,
+				D9968E751EB26C8200DB639E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = ToDoMicrosoft;
+			productName = ToDoMincrosoft;
+			productReference = D9968E771EB26C8200DB639E /* ToDoMicrosoft.app */;
+			productType = "com.apple.product-type.application";
+		};
+		D9968E871EB26C8200DB639E /* ToDoMicrosoftTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D9968E9F1EB26C8200DB639E /* Build configuration list for PBXNativeTarget "ToDoMicrosoftTests" */;
+			buildPhases = (
+				D9968E841EB26C8200DB639E /* Sources */,
+				D9968E851EB26C8200DB639E /* Frameworks */,
+				D9968E861EB26C8200DB639E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				D9968E8A1EB26C8200DB639E /* PBXTargetDependency */,
+			);
+			name = ToDoMicrosoftTests;
+			productName = ToDoMincrosoftTests;
+			productReference = D9968E881EB26C8200DB639E /* ToDoMicrosoftTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		D9968E921EB26C8200DB639E /* ToDoMicrosoftUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D9968EA21EB26C8200DB639E /* Build configuration list for PBXNativeTarget "ToDoMicrosoftUITests" */;
+			buildPhases = (
+				D9968E8F1EB26C8200DB639E /* Sources */,
+				D9968E901EB26C8200DB639E /* Frameworks */,
+				D9968E911EB26C8200DB639E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				D9968E951EB26C8200DB639E /* PBXTargetDependency */,
+			);
+			name = ToDoMicrosoftUITests;
+			productName = ToDoMincrosoftUITests;
+			productReference = D9968E931EB26C8200DB639E /* ToDoMicrosoftUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		D9968E6F1EB26C8200DB639E /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0830;
+				LastUpgradeCheck = 0830;
+				ORGANIZATIONNAME = "Александр Чапчук";
+				TargetAttributes = {
+					D9968E761EB26C8200DB639E = {
+						CreatedOnToolsVersion = 8.3.2;
+						ProvisioningStyle = Automatic;
+					};
+					D9968E871EB26C8200DB639E = {
+						CreatedOnToolsVersion = 8.3.2;
+						ProvisioningStyle = Automatic;
+						TestTargetID = D9968E761EB26C8200DB639E;
+					};
+					D9968E921EB26C8200DB639E = {
+						CreatedOnToolsVersion = 8.3.2;
+						ProvisioningStyle = Automatic;
+						TestTargetID = D9968E761EB26C8200DB639E;
+					};
+				};
+			};
+			buildConfigurationList = D9968E721EB26C8200DB639E /* Build configuration list for PBXProject "ToDoMicrosoft" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = D9968E6E1EB26C8200DB639E;
+			productRefGroup = D9968E781EB26C8200DB639E /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				D9968E761EB26C8200DB639E /* ToDoMicrosoft */,
+				D9968E871EB26C8200DB639E /* ToDoMicrosoftTests */,
+				D9968E921EB26C8200DB639E /* ToDoMicrosoftUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		D9968E751EB26C8200DB639E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D98EC7511EB276D600DDA5B8 /* ToDoMincrosoft in Resources */,
+				D9968E7F1EB26C8200DB639E /* Assets.xcassets in Resources */,
+				D9968E821EB26C8200DB639E /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D9968E861EB26C8200DB639E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D9968E911EB26C8200DB639E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		D9968E731EB26C8200DB639E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D9968E7D1EB26C8200DB639E /* ViewController.swift in Sources */,
+				D9968E7B1EB26C8200DB639E /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D9968E841EB26C8200DB639E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D9968E8D1EB26C8200DB639E /* ToDoMincrosoftTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D9968E8F1EB26C8200DB639E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D9968E981EB26C8200DB639E /* ToDoMincrosoftUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		D9968E8A1EB26C8200DB639E /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = D9968E761EB26C8200DB639E /* ToDoMicrosoft */;
+			targetProxy = D9968E891EB26C8200DB639E /* PBXContainerItemProxy */;
+		};
+		D9968E951EB26C8200DB639E /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = D9968E761EB26C8200DB639E /* ToDoMicrosoft */;
+			targetProxy = D9968E941EB26C8200DB639E /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		D9968E801EB26C8200DB639E /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				D9968E811EB26C8200DB639E /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		D9968E9A1EB26C8200DB639E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.12;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		D9968E9B1EB26C8200DB639E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.12;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = macosx;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+			};
+			name = Release;
+		};
+		D9968E9D1EB26C8200DB639E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				COMBINE_HIDPI_IMAGES = YES;
+				INFOPLIST_FILE = ToDoMincrosoft/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = ru.zendal.ToDoMicrosoft;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Debug;
+		};
+		D9968E9E1EB26C8200DB639E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				COMBINE_HIDPI_IMAGES = YES;
+				INFOPLIST_FILE = ToDoMincrosoft/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = ru.zendal.ToDoMicrosoft;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Release;
+		};
+		D9968EA01EB26C8200DB639E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				COMBINE_HIDPI_IMAGES = YES;
+				INFOPLIST_FILE = ToDoMincrosoftTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = ru.zendal.ToDoMincrosoftTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ToDoMicrosoft.app/Contents/MacOS/ToDoMicrosoft";
+			};
+			name = Debug;
+		};
+		D9968EA11EB26C8200DB639E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				COMBINE_HIDPI_IMAGES = YES;
+				INFOPLIST_FILE = ToDoMincrosoftTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = ru.zendal.ToDoMincrosoftTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ToDoMicrosoft.app/Contents/MacOS/ToDoMicrosoft";
+			};
+			name = Release;
+		};
+		D9968EA31EB26C8200DB639E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				COMBINE_HIDPI_IMAGES = YES;
+				INFOPLIST_FILE = ToDoMincrosoftUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = ru.zendal.ToDoMincrosoftUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_TARGET_NAME = ToDoMincrosoft;
+			};
+			name = Debug;
+		};
+		D9968EA41EB26C8200DB639E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				COMBINE_HIDPI_IMAGES = YES;
+				INFOPLIST_FILE = ToDoMincrosoftUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = ru.zendal.ToDoMincrosoftUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_TARGET_NAME = ToDoMincrosoft;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		D9968E721EB26C8200DB639E /* Build configuration list for PBXProject "ToDoMicrosoft" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D9968E9A1EB26C8200DB639E /* Debug */,
+				D9968E9B1EB26C8200DB639E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D9968E9C1EB26C8200DB639E /* Build configuration list for PBXNativeTarget "ToDoMicrosoft" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D9968E9D1EB26C8200DB639E /* Debug */,
+				D9968E9E1EB26C8200DB639E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D9968E9F1EB26C8200DB639E /* Build configuration list for PBXNativeTarget "ToDoMicrosoftTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D9968EA01EB26C8200DB639E /* Debug */,
+				D9968EA11EB26C8200DB639E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D9968EA21EB26C8200DB639E /* Build configuration list for PBXNativeTarget "ToDoMicrosoftUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D9968EA31EB26C8200DB639E /* Debug */,
+				D9968EA41EB26C8200DB639E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = D9968E6F1EB26C8200DB639E /* Project object */;
+}
