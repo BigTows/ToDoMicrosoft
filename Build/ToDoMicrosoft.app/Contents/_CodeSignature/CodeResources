@@ -6,19 +6,19 @@
 	<dict>
 		<key>Resources/Base.lproj/Main.storyboardc/Info.plist</key>
 		<data>
-		jNM+hsT+TGMq5B6yJzqMFbrr87M=
+		l1cwgqr2mHLS8Rc2Hqa26hCTER4=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/MainMenu.nib</key>
 		<data>
-		VFkBVqOumqDWstnnog/pxnsPxNw=
+		Hvd3GPjzclIW40aVJVsgEFAAna4=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib</key>
 		<data>
-		jDxFeETWg+VNLv+PCoU15gsrJWw=
+		fuaFjgNTxdbkNUgo0UmFKn+0mpQ=
 		</data>
-		<key>Resources/Base.lproj/Main.storyboardc/XfG-lQ-9wD-view-FQI-D4-Jmy.nib</key>
+		<key>Resources/Base.lproj/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib</key>
 		<data>
-		Hfg+tX+gKdYvULoeAvgpiQcuroo=
+		gr3F5vC1GQ5ZOaqUO7Jf2LcVRdo=
 		</data>
 		<key>Resources/libswiftRemoteMirror.dylib</key>
 		<data>
@@ -126,6 +126,15 @@
 			<key>requirement</key>
 			<string>cdhash H"2e2d262db73f35d56d35aaca1c3c302a68d3579b" or cdhash H"453474dc8025d00c873f08590be7dc71b6c465f2"</string>
 		</dict>
+		<key>Frameworks/libswiftSwiftOnoneSupport.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			6S9q9LkU+fpbn65btEfab6tDjVs=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"923f11728c7f78d1e590414afe9bb6f4e34a1527" or cdhash H"e92f6af4b914f9fa5b9fae5bb447da6fab438d5b"</string>
+		</dict>
 		<key>Frameworks/libswiftXPC.dylib</key>
 		<dict>
 			<key>cdhash</key>
@@ -139,28 +148,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XaazG5ld628syBoqOU2C6b/1qL+Au46cGyF9N7O2ln4=
+			nj/Z8M1WAtOsGAlQr5W3Lnnt02+EVvDccwMvcIAMKgg=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/MainMenu.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			M4jeML8nEm0LBUmgBSCVht8o/X1FV24HvH28zpZ1TF4=
+			S1ljE6cbLuD3sjzlQ6LDav3pdxccfv3UHPftYpF23jc=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			AF8TS3miBeiVhmXSNo36CaR6guByIJfWsVsTg0CTeSs=
+			j9GuwM6t4sQn16xJlA+DgjONoV+NQAB2YTu3qzUoDZ8=
 			</data>
 		</dict>
-		<key>Resources/Base.lproj/Main.storyboardc/XfG-lQ-9wD-view-FQI-D4-Jmy.nib</key>
+		<key>Resources/Base.lproj/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			yn06cRS8dYBumQGflDO0XHIcl2MgFdirTBBrTzpTsbw=
+			ZbjWmOJr2dBMUSCYoX0rpu8ZK5/umSHeHH/56a7ZVck=
 			</data>
 		</dict>
 		<key>Resources/libswiftRemoteMirror.dylib</key>

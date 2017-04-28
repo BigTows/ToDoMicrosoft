@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>ToDoMincrosoft.xcscheme</key>
+		<key>ToDoMicrosoft.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,17 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>D9968E761EB26C8200DB639E</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>D9968E871EB26C8200DB639E</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>D9968E921EB26C8200DB639E</key>
+		<key>D9381DDC1EB316A200025B12</key>
 		<dict>
 			<key>primary</key>
 			<true/>

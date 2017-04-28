@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  ToDoMincrosoft
+//  ToDoMicrosoft
 //
-//  Created by Александр Чапчук on 27/04/2017.
+//  Created by Александр Чапчук on 28/04/2017.
 //  Copyright © 2017 Александр Чапчук. All rights reserved.
 //
 

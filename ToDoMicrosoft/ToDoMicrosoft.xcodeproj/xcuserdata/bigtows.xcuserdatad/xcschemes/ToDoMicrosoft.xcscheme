@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "D9968E761EB26C8200DB639E"
+               BlueprintIdentifier = "D9381DDC1EB316A200025B12"
                BuildableName = "ToDoMicrosoft.app"
                BlueprintName = "ToDoMicrosoft"
                ReferencedContainer = "container:ToDoMicrosoft.xcodeproj">
@@ -28,31 +28,11 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "D9968E871EB26C8200DB639E"
-               BuildableName = "ToDoMicrosoftTests.xctest"
-               BlueprintName = "ToDoMicrosoftTests"
-               ReferencedContainer = "container:ToDoMicrosoft.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "D9968E921EB26C8200DB639E"
-               BuildableName = "ToDoMicrosoftUITests.xctest"
-               BlueprintName = "ToDoMicrosoftUITests"
-               ReferencedContainer = "container:ToDoMicrosoft.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "D9968E761EB26C8200DB639E"
+            BlueprintIdentifier = "D9381DDC1EB316A200025B12"
             BuildableName = "ToDoMicrosoft.app"
             BlueprintName = "ToDoMicrosoft"
             ReferencedContainer = "container:ToDoMicrosoft.xcodeproj">
@@ -75,7 +55,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "D9968E761EB26C8200DB639E"
+            BlueprintIdentifier = "D9381DDC1EB316A200025B12"
             BuildableName = "ToDoMicrosoft.app"
             BlueprintName = "ToDoMicrosoft"
             ReferencedContainer = "container:ToDoMicrosoft.xcodeproj">
@@ -94,7 +74,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "D9968E761EB26C8200DB639E"
+            BlueprintIdentifier = "D9381DDC1EB316A200025B12"
             BuildableName = "ToDoMicrosoft.app"
             BlueprintName = "ToDoMicrosoft"
             ReferencedContainer = "container:ToDoMicrosoft.xcodeproj">
